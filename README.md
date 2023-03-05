@@ -10,7 +10,7 @@ The website includes the following validations:
     Author name length: The author name must be between 5 and 30 characters.
     Body length: The body must be between 10 and 2000 characters.
     If any of these validations fail, you will see an error message indicating what went wrong.
-    
+
 ## Storing Persistent Data
 
 The website uses LocalStorage to store the blog posts that you create. This means that even if you close the browser or shut down your computer, your posts will still be there when you come back.
@@ -18,3 +18,7 @@ The website uses LocalStorage to store the blog posts that you create. This mean
 ## Technologies Used
 
 This website was built using HTML, CSS, and JavaScript.
+
+## Website
+
+https://syydzeeshan.github.io/Blog-UI/index.html
